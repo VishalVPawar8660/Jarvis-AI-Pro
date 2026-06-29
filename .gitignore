@@ -1,0 +1,12 @@
+```gitignore
+__pycache__/
+*.pyc
+voice.wav
+models/
+*.wav
+test_*.py
+whisper_test.py
+vosk_test.py
+mic_test.py
+Jarvis.py - Shortcut.lnk
+```
